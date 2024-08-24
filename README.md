@@ -2,20 +2,6 @@
 
 A classification analysis to predict mortality rate of Pneumonia patients.
 
- ## Collaborators
- 
- 1. Jubilant Mutuku
- 
- 2. Ivan Wawire
- 
- 3. Millicent Muthomi
- 
- 4. Maureen Muriithi
- 
- 5. Wilson Wachira
- 
- 6. Lydia Masabarakiza
-
 # Problem Statement.
 
 Healthcare providers and administrators in New York State aim to improve patient outcomes and reduce in-hospital mortality among pneumonia patients. In-hospital mortality occurs when patients succumb to their condition during their hospital stay, and it is crucial for healthcare providers to predict which patients are at the highest risk of mortality. By identifying these high-risk patients in advance, healthcare providers in New York can implement targeted interventions and allocate resources more effectively to improve patient care and survival rates.
